@@ -27,11 +27,17 @@ The room's geometry should reinforce isolation: Kane near the back wall, the cro
 
 ## Dialogue (adapted — consistent, not exact)
 *(VO only in this scene — no spoken dialogue)*
-> KANE (V.O.): December makes the city honest. Not in a good way. Stripped down to the bone. The kind of cold that makes you understand why people disappear.
+> KANE (V.O.): December forces this city to tell the truth. 
+            It is a cold, skeletal honesty. The kind 
+            that numbs your throat and makes you realize 
+            how easily a person can just vanish.
 
-> KANE (V.O.): I'd been a detective long enough to know every neighborhood has its own language. Most of it is lies. The rest is blood.
+> KANE (V.O.): Spend enough years carrying a badge, and you 
+            learn that every neighborhood speaks its own 
+            dialect. Mostly, they just lie. 
 
-> KANE (V.O.): That night, I followed blood back to the station.
+> KANE (V.O.): But tonight, the city spoke in blood. 
+            And it led me straight back to the precinct.
 
 *(After the footage ends:)*
 > VOICE (O.S.): Second one this week.
