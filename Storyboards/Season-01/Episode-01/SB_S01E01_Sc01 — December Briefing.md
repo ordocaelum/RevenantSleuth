@@ -4,6 +4,8 @@
 - Characters: Kane (narrator), assembled detectives/officers (background), unnamed sergeant (off-screen voice)
 - Beat summary: Kane stands in the dimly lit bullpen as the room watches body-cam footage on monitors. The footage captures a family massacre and something impossible climbing out of a sedan. The room's silence is not respect — it's shock. Kane reads it all as familiar dread: something is loose, and he's the one who has to go find it.
 
+Kanes Voice Code: 7898AMdRTtesf0Y9zS54
+
 ## Shot List
 | # | Shot | Framing/Move | Subject | Notes (lighting, lens, VFX) |
 |---|------|--------------|---------|------------------------------|
